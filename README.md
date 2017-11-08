@@ -9,3 +9,4 @@ mvn package
 ## Details
 
 see http://www.munzandmore.com/2017/ora/kotlin-spring-boot-aws-beanstalk-oracle-cloud
+and a webcast under https://youtu.be/jWNogV4tMig
